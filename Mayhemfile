@@ -1,0 +1,5 @@
+project: rnshah9/kenlm
+target: build-binary
+
+cmds:
+  - cmd: /repo/build/bin/build_binary @@
