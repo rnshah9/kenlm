@@ -1,4 +1,4 @@
-project: rnshah9/kenlm
+project: kenlm
 target: build-binary
 
 cmds:
