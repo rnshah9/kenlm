@@ -2,4 +2,4 @@ project: kenlm
 target: build-binary
 
 cmds:
-  - cmd: /repo/build/bin/build_binary @@
+  - cmd: /install/bin/build_binary @@
